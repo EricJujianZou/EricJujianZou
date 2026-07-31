@@ -34,3 +34,4 @@ then tell claude to "rizz this up" and thank me later.
 ---
 
 <sub>this profile contains zero em dashes. certified slop-free by <a href="https://github.com/EricJujianZou/skills">brainrotifier</a>.</sub>
+
