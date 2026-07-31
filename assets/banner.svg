@@ -1,0 +1,18 @@
+<svg width="880" height="200" viewBox="0 0 880 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="880" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1a1040"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="180" y1="60" x2="700" y2="130" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#79c0ff"/>
+      <stop offset="0.5" stop-color="#d2a8ff"/>
+      <stop offset="1" stop-color="#ff7b72"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="200" rx="16" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="879" height="199" rx="15.5" stroke="#30363d"/>
+  <text x="440" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="url(#txt)" letter-spacing="-1">hey, i'm eric 👋</text>
+  <text x="440" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#8b949e">building &amp; chatting · engineering @ uwaterloo</text>
+  <text x="440" y="174" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="14" fill="#7ee787">shipping claude code skills → github.com/EricJujianZou/skills</text>
+</svg>

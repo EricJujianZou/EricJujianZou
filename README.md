@@ -1,6 +1,12 @@
-# hey, i'm eric 👋
+<div align="center">
 
-building & chatting · engineering @ uwaterloo · [x/twitter](https://x.com/SleppyEric)
+<img src="assets/banner.svg" alt="hey, i'm eric" width="880"/>
+
+[![x/twitter](https://img.shields.io/badge/@SleppyEric-000?logo=x&logoColor=white)](https://x.com/SleppyEric)
+[![skills](https://img.shields.io/badge/claude_code-skills-d97757?logo=anthropic&logoColor=white)](https://github.com/EricJujianZou/skills)
+![profile views](https://komarev.com/ghpvc/?username=EricJujianZou&color=79c0ff&style=flat)
+
+</div>
 
 ## currently building
 
