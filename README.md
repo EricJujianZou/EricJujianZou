@@ -22,7 +22,7 @@ Building introspective AI to feel pain and emotions. Spent summer 2026 as a forw
 </tr>
 <tr>
 <td><img src="assets/projects/jargon-panel.webp" width="200" alt=""></td>
-<td><a href="https://test.ericzou.dev/jargon/"><b>Jargon Panel</b></a> is a Chrome side panel that defines jargon next to the Google Meet caption that used it. The waitlist is open.</td>
+<td><a href="https://ericzou.dev/jargon/"><b>Jargon Panel</b></a> is a Chrome side panel that defines jargon next to the Google Meet caption that used it. The waitlist is open.</td>
 </tr>
 </table>
 
