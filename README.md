@@ -1,37 +1,30 @@
-<div align="center">
+# Eric Zou
 
-<img src="assets/banner.svg" alt="hey, i'm eric" width="880"/>
+20, Electrical Engineering at Waterloo. I run experiments and like being proven wrong.
 
-[![x/twitter](https://img.shields.io/badge/@SleppyEric-000?logo=x&logoColor=white)](https://x.com/SleppyEric)
-[![skills](https://img.shields.io/badge/claude_code-skills-d97757?logo=anthropic&logoColor=white)](https://github.com/EricJujianZou/skills)
-![profile views](https://komarev.com/ghpvc/?username=EricJujianZou&color=79c0ff&style=flat)
+Co-founder of [ugmi](https://ugmi.ca). Spent summer 2026 as a forward deployed engineer at TextNow.
 
-</div>
+## Building
 
-## currently building
+[**ugmi**](https://ugmi.ca) reads every co-op applicant's built work against what the founder's last hire struggled with, then sends back five to interview. Paid pilot for the Jan 2027 cycle.
 
-- **[skills](https://github.com/EricJujianZou/skills)** — Claude Code skills as an installable plugin. flagship: **brainrotifier**, which patches AI-slop writing into certified gen z brainrot (`delve into` → `lock in on`, em dashes do not survive)
-- **[agentic-sdlc](https://github.com/EricJujianZou/agentic-sdlc)** — my agentic software development lifecycle, so every future project builds itself faster
-- **scholarship-factory**: auto scrape, parse, and rank opportunities
-- **[optimal](https://github.com/EricJujianZou/optimal)** — make the right choice, anytime, anywhere
+[**watnow**](https://watnow.ugmi.ca) is a Chrome extension that reads every course on Learn and answers "what's due this week?" 850 Waterloo students use it.
 
-## try my claude code skills
+[**optimal**](https://github.com/EricJujianZou/optimal) is research on using parallel agents and game theory to take the regret out of everyday decisions.
+
+[**scaffold-bench**](https://github.com/EricJujianZou/scaffold-bench) tests whether frontier coding agents still need scaffolding, over five pre-registered rounds. The scaffold won in round five.
+
+## How I work
+
+Agents on my own harness pick up tickets and open PRs, and I review them. The [skills](https://github.com/EricJujianZou/skills) I run in Claude Code are public:
 
 ```
 /plugin marketplace add EricJujianZou/skills
 /plugin install ez-skills@ez
 ```
 
-then tell claude to "rizz this up" and thank me later.
+## Talk to me
 
-## stats
+I'm working on design and distribution right now and want to hear from design, product and marketing people. [Book 20 minutes](https://calendly.com/ericzou/chat) or email e2zou@uwaterloo.ca.
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EricJujianZou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricJujianZou&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-</p>
-
----
-
-<sub>this profile contains zero em dashes. certified slop-free by <a href="https://github.com/EricJujianZou/skills">brainrotifier</a>.</sub>
-
+Writing at [ericzou.dev](https://ericzou.dev). [Resume](https://ericzou.dev/assets/Eric_Zou_Resume_FDE_2027.pdf).
