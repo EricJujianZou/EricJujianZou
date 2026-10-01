@@ -1,18 +1,47 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Eric Zou, with a point-cloud portrait that turns side to side">
+</picture>
+
 # Eric Zou
 
 20, Electrical Engineering at Waterloo. I run experiments and like being proven wrong.
 
-Co-founder of [ugmi](https://ugmi.ca). Spent summer 2026 as a forward deployed engineer at TextNow.
+Building introspective AI to feel pain and emotions. Spent summer 2026 as a forward deployed engineer at TextNow.
 
-## Building
+## Ongoing
 
-[**ugmi**](https://ugmi.ca) reads every co-op applicant's built work against what the founder's last hire struggled with, then sends back five to interview. Paid pilot for the Jan 2027 cycle.
+<table>
+<tr>
+<td><img src="assets/projects/watnow.webp" width="200" alt=""></td>
+<td><a href="https://watnow.ugmi.ca"><b>watnow</b></a> is a Chrome extension that reads every course on Learn and answers "what's due this week?" It has 1300 installs.</td>
+</tr>
+<tr>
+<td><img src="assets/projects/watsworthit.webp" width="200" alt=""></td>
+<td><a href="https://watsworthit.ugmi.ca"><b>WatsWorthIt</b></a> is a free Chrome extension that shows pay per hour and an ROI score on the WaterlooWorks job table.</td>
+</tr>
+<tr>
+<td><img src="assets/projects/jargon-panel.webp" width="200" alt=""></td>
+<td><a href="https://test.ericzou.dev/jargon/"><b>Jargon Panel</b></a> is a Chrome side panel that defines jargon next to the Google Meet caption that used it. The waitlist is open.</td>
+</tr>
+</table>
 
-[**watnow**](https://watnow.ugmi.ca) is a Chrome extension that reads every course on Learn and answers "what's due this week?" 850 Waterloo students use it.
+## Past
 
-[**optimal**](https://github.com/EricJujianZou/optimal) is research on using parallel agents and game theory to take the regret out of everyday decisions.
-
-[**scaffold-bench**](https://github.com/EricJujianZou/scaffold-bench) tests whether frontier coding agents still need scaffolding, over five pre-registered rounds. The scaffold won in round five.
+<table>
+<tr>
+<td><img src="assets/projects/scaffold-bench.webp" width="200" alt=""></td>
+<td><a href="https://github.com/EricJujianZou/scaffold-bench"><b>scaffold-bench</b></a> tested whether frontier coding agents still need scaffolding, over five pre-registered rounds. The scaffold won in round five.</td>
+</tr>
+<tr>
+<td><img src="assets/projects/anti-soy.webp" width="200" alt=""></td>
+<td><a href="https://antisoy.com"><b>Anti-Soy</b></a> helps non-technical recruiters evaluate candidates from their GitHub code.</td>
+</tr>
+<tr>
+<td><img src="assets/projects/ccpet.webp" width="200" alt=""></td>
+<td><a href="https://github.com/EricJujianZou/ccpet"><b>ccpet</b></a> is a desktop pet that mirrors a live Claude Code session. She types while the agent works and puts her hand up when it needs your approval.</td>
+</tr>
+</table>
 
 ## How I work
 
