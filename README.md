@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Eric Zou, with a point-cloud portrait that turns side to side">
+  <img src="assets/banner-light.svg" width="100%" alt="Eric Zou, with a point-cloud portrait that turns side to side, next to Engineering 7 drawn in ASCII">
 </picture>
 
 # Eric Zou
