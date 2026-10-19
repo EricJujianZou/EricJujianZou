@@ -14,11 +14,11 @@ Building introspective AI to feel pain and emotions. Spent summer 2026 as a forw
 <table>
 <tr>
 <td><img src="assets/projects/watnow.webp" width="200" alt=""></td>
-<td><a href="https://watnow.ugmi.ca"><b>watnow</b></a> is a Chrome extension that reads every course on Learn and answers "what's due this week?" It has 1300 installs.</td>
+<td><a href="https://watnow.ugmi.ca"><b>watnow</b></a> is a Chrome extension that reads every course on Learn and answers "what's due this week?" at 2000+ installs.</td>
 </tr>
 <tr>
 <td><img src="assets/projects/watsworthit.webp" width="200" alt=""></td>
-<td><a href="https://watsworthit.ugmi.ca"><b>WatsWorthIt</b></a> is a free Chrome extension that shows pay per hour and an ROI score on the WaterlooWorks job table.</td>
+<td><a href="https://watsworthit.ugmi.ca"><b>WatsWorthIt</b></a> is a free Chrome extension that shows pay per hour and an ROI score on the WaterlooWorks job table, 200+ installs.</td>
 </tr>
 <tr>
 <td><img src="assets/projects/jargon-panel.webp" width="200" alt=""></td>
