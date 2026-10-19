@@ -33,7 +33,7 @@ External context, like email connectors, wallet connectors or world models, only
 <table>
 <tr>
 <td><img src="assets/projects/watsworthit.webp" width="200" alt=""></td>
-<td><a href="https://watsworthit.ugmi.ca"><b>WatsWorthIt</b></a> adds pay per hour and an ROI score to the WaterlooWorks job table..</td>
+<td><a href="https://watsworthit.ugmi.ca"><b>WatsWorthIt</b></a> adds pay per hour and an ROI score to the WaterlooWorks job table. Over 200 people installed it..</td>
 </tr>
 <tr>
 <td><img src="assets/projects/jargon-panel.webp" width="200" alt=""></td>
