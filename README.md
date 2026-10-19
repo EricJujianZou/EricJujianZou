@@ -5,24 +5,26 @@
 
 # Eric Zou
 
-20, Electrical Engineering at Waterloo. I run experiments and like being proven wrong.
+20, Electrical Engineering at Waterloo. I spent summer 2026 as a forward deployed engineer at TextNow.
 
-Building introspective AI to feel pain and emotions. Spent summer 2026 as a forward deployed engineer at TextNow.
+The most ambitious problem I'm solving: I'm building interoceptive AI. It's my bet for AGI.
+
+External context, like email connectors, wallet connectors or world models, only captures humans' stated preferences, which is an act we all put on. Revealed preferences are how we actually think, feel and make decisions, and I think AGI has to start there, by pulling context from within.
 
 ## Ongoing
 
 <table>
 <tr>
+<td><img src="assets/projects/rederive.webp" width="200" alt=""></td>
+<td><a href="https://github.com/EricJujianZou/rederive"><b>rederive</b></a> is for people who built a project with AI and can't explain it yet. The agent finds each design decision in the codebase and hands it to you as a problem, adding the real constraints one at a time, and it never tells you the answer. It works on your own repo or on a famous one like Express or Redis.</td>
+</tr>
+<tr>
+<td><img src="assets/projects/llm-dream.webp" width="200" alt=""></td>
+<td><a href="https://github.com/EricJujianZou/llm-dream"><b>llm-dream</b></a> asks whether an LLM can dream. I corrupted part of an agent's daily conversation log before it rewrote its memory each night, to test whether distorted replay helps it generalize the way the overfitted brain hypothesis says dreams do. It did not help in any of 30 runs. I submitted the paper to arXiv on October 14, 2026, and the write-up is on <a href="https://waterlooagi.com/experiments/llm-dream/">waterlooagi.com</a>.</td>
+</tr>
+<tr>
 <td><img src="assets/projects/watnow.webp" width="200" alt=""></td>
-<td><a href="https://watnow.ugmi.ca"><b>watnow</b></a> is a Chrome extension that reads every course on Learn and answers "what's due this week?" It has 1300 installs.</td>
-</tr>
-<tr>
-<td><img src="assets/projects/watsworthit.webp" width="200" alt=""></td>
-<td><a href="https://watsworthit.ugmi.ca"><b>WatsWorthIt</b></a> is a free Chrome extension that shows pay per hour and an ROI score on the WaterlooWorks job table.</td>
-</tr>
-<tr>
-<td><img src="assets/projects/jargon-panel.webp" width="200" alt=""></td>
-<td><a href="https://ericzou.dev/jargon/"><b>Jargon Panel</b></a> is a Chrome side panel that defines jargon next to the Google Meet caption that used it. The waitlist is open.</td>
+<td><a href="https://watnow.ugmi.ca"><b>watnow</b></a> reads every course on Learn and answers "what's due this week?" Over 2,000 Waterloo students installed it.</td>
 </tr>
 </table>
 
@@ -30,22 +32,29 @@ Building introspective AI to feel pain and emotions. Spent summer 2026 as a forw
 
 <table>
 <tr>
-<td><img src="assets/projects/scaffold-bench.webp" width="200" alt=""></td>
-<td><a href="https://github.com/EricJujianZou/scaffold-bench"><b>scaffold-bench</b></a> tested whether frontier coding agents still need scaffolding, over five pre-registered rounds. The scaffold won in round five.</td>
+<td><img src="assets/projects/watsworthit.webp" width="200" alt=""></td>
+<td><a href="https://watsworthit.ugmi.ca"><b>WatsWorthIt</b></a> adds pay per hour and an ROI score to the WaterlooWorks job table..</td>
+</tr>
+<tr>
+<td><img src="assets/projects/jargon-panel.webp" width="200" alt=""></td>
+<td><a href="https://ericzou.dev/jargon/"><b>Jargon Panel</b></a> defined jargon in a Chrome side panel next to the Google Meet caption that used it. I put up a waitlist to see who wanted it, and the page is still there.</td>
 </tr>
 <tr>
 <td><img src="assets/projects/anti-soy.webp" width="200" alt=""></td>
-<td><a href="https://antisoy.com"><b>Anti-Soy</b></a> helps non-technical recruiters evaluate candidates from their GitHub code.</td>
-</tr>
-<tr>
-<td><img src="assets/projects/ccpet.webp" width="200" alt=""></td>
-<td><a href="https://github.com/EricJujianZou/ccpet"><b>ccpet</b></a> is a desktop pet that mirrors a live Claude Code session. She types while the agent works and puts her hand up when it needs your approval.</td>
+<td><a href="https://antisoy.com"><b>Anti-Soy</b></a> helped non-technical recruiters judge candidates from their GitHub code.</td>
 </tr>
 </table>
 
 ## How I work
 
-Agents on my own harness pick up tickets and open PRs, and I review them. The [skills](https://github.com/EricJujianZou/skills) I run in Claude Code are public:
+Agents pick up tickets on my own harness and open PRs, and I review them. The [skills](https://github.com/EricJujianZou/skills) I run in Claude Code are public. rederive is the one I'd start with:
+
+```
+/plugin marketplace add EricJujianZou/rederive
+/plugin install rederive@rederive
+```
+
+The rest, including humanizer and brainrotifier, come from the skills repo:
 
 ```
 /plugin marketplace add EricJujianZou/skills
@@ -54,6 +63,6 @@ Agents on my own harness pick up tickets and open PRs, and I review them. The [s
 
 ## Talk to me
 
-I'm working on design and distribution right now and want to hear from design, product and marketing people. [Book 20 minutes](https://calendly.com/ericzou/chat) or email e2zou@uwaterloo.ca.
+I'm learning design and distribution right now, and I want to talk to people who do design, product or marketing for a living. [Book 20 minutes](https://calendly.com/ericzou/chat) or email e2zou@uwaterloo.ca.
 
 Writing at [ericzou.dev](https://ericzou.dev). [Resume](https://ericzou.dev/assets/Eric_Zou_Resume_FDE_2027.pdf).
