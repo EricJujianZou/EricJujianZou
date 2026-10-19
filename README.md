@@ -5,7 +5,7 @@
 
 # Eric Zou
 
-20, Electrical Engineering at Waterloo. I spent summer 2026 as a forward deployed engineer at TextNow.
+20, 2nd year Electrical Engineering at Waterloo. 
 
 The most ambitious problem I'm solving: I'm building interoceptive AI. It's my bet for AGI.
 
@@ -16,7 +16,7 @@ External context, like email connectors, wallet connectors or world models, only
 <table>
 <tr>
 <td><img src="assets/projects/rederive.webp" width="200" alt=""></td>
-<td><a href="https://github.com/EricJujianZou/rederive"><b>rederive</b></a> is for people who built a project with AI and can't explain it yet. The agent finds each design decision in the codebase and hands it to you as a problem, adding the real constraints one at a time, and it never tells you the answer. It works on your own repo or on a famous one like Express or Redis.</td>
+<td><a href="https://github.com/EricJujianZou/rederive"><b>rederive</b></a> let's you rederive any codebase from first principles. It works on your own repo or on a famous one like Express or Redis.</td>
 </tr>
 <tr>
 <td><img src="assets/projects/llm-dream.webp" width="200" alt=""></td>
@@ -33,7 +33,7 @@ External context, like email connectors, wallet connectors or world models, only
 <table>
 <tr>
 <td><img src="assets/projects/watsworthit.webp" width="200" alt=""></td>
-<td><a href="https://watsworthit.ugmi.ca"><b>WatsWorthIt</b></a> adds pay per hour and an ROI score to the WaterlooWorks job table. Over 200 people installed it..</td>
+<td><a href="https://watsworthit.ugmi.ca"><b>WatsWorthIt</b></a> adds pay per hour and an ROI score to the WaterlooWorks job table. Over 200 people installed it.</td>
 </tr>
 <tr>
 <td><img src="assets/projects/jargon-panel.webp" width="200" alt=""></td>
