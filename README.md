@@ -7,7 +7,7 @@
 
 20, 2nd year Electrical Engineering at Waterloo. 
 
-The most ambitious problem I'm solving: I'm building interoceptive AI. It's my bet for AGI.
+The most ambitious problem I'm solving: I'm building the extraction layer of latent variables for AGI infrastructure.
 
 External context, like email connectors, wallet connectors or world models, only captures humans' stated preferences, which is an act we all put on. Revealed preferences are how we actually think, feel and make decisions, and I think AGI has to start there, by pulling context from within.
 
