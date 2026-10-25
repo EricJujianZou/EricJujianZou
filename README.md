@@ -37,7 +37,7 @@ External context, like email connectors, wallet connectors or world models, only
 <tr>
 <td><a href="https://antisoy.com"><img src="assets/projects/anti-soy.webp" width="100%" alt="Anti-Soy"></a></td>
 <td><h3><a href="https://antisoy.com">Anti-Soy</a></h3>Helped non-technical recruiters judge candidates from their GitHub code.</td>
-<td></td>
+<td><b>Spoke to 35 engineers and recruiters to invalidate the problem</b></td>
 </tr>
 </table>
 
